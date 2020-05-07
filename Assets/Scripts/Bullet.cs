@@ -15,6 +15,7 @@ public class Bullet : MonoBehaviour
 
     private void Start()
     {
+//TESTINGTWO
         //TESTINGCALLEJAS
         // Autodestrucción de la bala
         Invoke("Destroy", autoDestr);
